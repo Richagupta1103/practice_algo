@@ -1,5 +1,5 @@
 '''
-Given a list_of_ints, find the highest_product you can get from three of the integers.
+python
 '''
 def highest_product_of_3(list_of_ints):
     if len(list_of_ints) < 3:
